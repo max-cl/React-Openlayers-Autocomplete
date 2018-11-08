@@ -127,7 +127,7 @@ class App extends Component {
     return (
       <div className={classes.root}>
         <Typography className={classes.typography} variant="h6" gutterBottom>
-          ReactJS + Openlayers + Material UI + Photon Geocoder + Autocomplete
+          ReactJS + Openlayers + Material UI + Photon Geocoder
         </Typography>
         <div className={classes.container}>
             <form autocomplete="off" onSubmit={this.handleSubmit}>

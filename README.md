@@ -1,1 +1,1 @@
-ReactJS + Openlayers + Material UI + Photon Geocoder + Autocomplete
+ReactJS + Openlayers + Material UI + Photon Geocoder
