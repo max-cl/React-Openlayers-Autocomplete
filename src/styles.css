@@ -1,0 +1,9 @@
+#mapContainer{
+  width: 90vw;
+  height: 75vh;
+  padding: 5px;
+  background-color: #FFFFFF;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 3px;
+}
